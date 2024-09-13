@@ -1,0 +1,14 @@
+C:\Users\renie\source\repos\OrgianizationalTree\OrgianizationalTree\bin\Debug\net8.0\OrgianizationalTree.exe
+C:\Users\renie\source\repos\OrgianizationalTree\OrgianizationalTree\bin\Debug\net8.0\OrgianizationalTree.deps.json
+C:\Users\renie\source\repos\OrgianizationalTree\OrgianizationalTree\bin\Debug\net8.0\OrgianizationalTree.runtimeconfig.json
+C:\Users\renie\source\repos\OrgianizationalTree\OrgianizationalTree\bin\Debug\net8.0\OrgianizationalTree.dll
+C:\Users\renie\source\repos\OrgianizationalTree\OrgianizationalTree\bin\Debug\net8.0\OrgianizationalTree.pdb
+C:\Users\renie\source\repos\OrgianizationalTree\OrgianizationalTree\obj\Debug\net8.0\OrgianizationalTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renie\source\repos\OrgianizationalTree\OrgianizationalTree\obj\Debug\net8.0\OrgianizationalTree.AssemblyInfoInputs.cache
+C:\Users\renie\source\repos\OrgianizationalTree\OrgianizationalTree\obj\Debug\net8.0\OrgianizationalTree.AssemblyInfo.cs
+C:\Users\renie\source\repos\OrgianizationalTree\OrgianizationalTree\obj\Debug\net8.0\OrgianizationalTree.csproj.CoreCompileInputs.cache
+C:\Users\renie\source\repos\OrgianizationalTree\OrgianizationalTree\obj\Debug\net8.0\OrgianizationalTree.dll
+C:\Users\renie\source\repos\OrgianizationalTree\OrgianizationalTree\obj\Debug\net8.0\refint\OrgianizationalTree.dll
+C:\Users\renie\source\repos\OrgianizationalTree\OrgianizationalTree\obj\Debug\net8.0\OrgianizationalTree.pdb
+C:\Users\renie\source\repos\OrgianizationalTree\OrgianizationalTree\obj\Debug\net8.0\OrgianizationalTree.genruntimeconfig.cache
+C:\Users\renie\source\repos\OrgianizationalTree\OrgianizationalTree\obj\Debug\net8.0\ref\OrgianizationalTree.dll
